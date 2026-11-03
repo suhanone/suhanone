@@ -18,7 +18,12 @@ An anime-inspired birthday experience with animated cherry blossoms, music contr
 
 `React` · `TypeScript` · `Tailwind CSS` · `Vite` · `Express`
 
-[Explore the code →](https://github.com/suhanone/birthday-template) · [Run it locally →](https://github.com/suhanone/birthday-template#run-locally)
+[Live demo →](https://suhanone.github.io/birthday-template/) · [Explore the code →](https://github.com/suhanone/birthday-template) · [Run it locally →](https://github.com/suhanone/birthday-template#run-locally)
+
+### CodeSandbox experiments
+
+**[Drag Papers — interactive greeting](https://codesandbox.io/p/sandbox/birthday-74c7w3)**  
+An earlier HTML, CSS, and JavaScript experiment with layered paper cards, personal messages, and music. Browse the sandbox to explore the implementation.
 
 ### Tools in my projects
 
